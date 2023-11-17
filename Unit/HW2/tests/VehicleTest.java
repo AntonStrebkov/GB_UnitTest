@@ -24,7 +24,6 @@ import static org.assertj.core.api.Assertions.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-
 public class VehicleTest {
 
     // проверка того, что экземпляр объекта Car также является экземпляром транспортного средства; (instanceof)

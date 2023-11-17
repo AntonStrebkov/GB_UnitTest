@@ -4,11 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Unit/HW1/HW1.iml" filepath="$PROJECT_DIR$/Unit/HW1/HW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit/HW2/HW2.iml" filepath="$PROJECT_DIR$/Unit/HW2/HW2.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/unit-tests-3 (Условие ДЗ)/HW3/HW3.iml" filepath="$USER_HOME$/Downloads/unit-tests-3 (Условие ДЗ)/HW3/HW3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit/Lection2/Lection2.iml" filepath="$PROJECT_DIR$/Unit/Lection2/Lection2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit/Lection2/src/Lection21.iml" filepath="$PROJECT_DIR$/Unit/Lection2/src/Lection21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Unit/Seminar1/Seminar1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Unit-master (1).iml" filepath="$PROJECT_DIR$/.idea/Unit-master (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unit.iml" filepath="$PROJECT_DIR$/.idea/Unit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit/unit-tests-lesson02/unit-tests-lesson02.iml" filepath="$PROJECT_DIR$/Unit/unit-tests-lesson02/unit-tests-lesson02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit/untitled/untitled.iml" filepath="$PROJECT_DIR$/Unit/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
